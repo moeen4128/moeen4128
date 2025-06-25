@@ -56,9 +56,9 @@ Tech: Flutter, Firebase, Provider
 ---
 
 ## 🔥 *GitHub Stats*
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MShahzadAbdulmajeed&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moeen4128&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MShahzadAbdulmajeed&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moeen4128&layout=compact&theme=radical)
 
 ---
 
