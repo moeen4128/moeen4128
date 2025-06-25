@@ -62,7 +62,7 @@ Tech: Flutter, Firebase, Provider
 ---
 
 ## 📫 *Connect With Me*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/moeen-app-developer/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:moeen.abdumajeed786@gmail.com)  
 📞 *+92 307 1464925*
 
