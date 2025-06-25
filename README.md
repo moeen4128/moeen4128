@@ -23,27 +23,27 @@ Passionate about building cross-platform mobile apps with Flutter, integrating r
 ## 🚀 *Featured Projects*
 
 ### *Ride Share – Taxi & Bike Booking App*  
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-green)](https://github.com/your-repo)  
+[![Word](https://img.shields.io/badge/View_File-Word-blue)](https://docs.google.com/document/d/1VJz7rM2XA2D7RYAOy7FKM9SVhDdjofaX/edit?tab=t.0)
 Real-time ride tracking, fare calculation, and Google Maps navigation.  
 Tech: Flutter, Laravel, Swagger API
 
 ### *Smart Farming IoT System*  
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-green)](https://github.com/your-repo)  
+[![Word](https://img.shields.io/badge/View_File-Word-blue)](https://docs.google.com/document/d/13cJqwFwf6FJuroy-UnmGWeCCJIS3j8pj/edit?tab=t.0)
 Remote field monitoring with 30% water savings via IoT sensors.  
 Tech: Flutter, Firebase, IoT Protocols
 
 ### *Omanta – Travel & Hospitality App*  
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-green)](https://github.com/your-repo)  
+[![Word](https://img.shields.io/badge/View_File-Word-blue)](https://docs.google.com/document/d/1WKk_xYdTKfiRQJsRKxdugh4s5NffuzlH/edit?tab=t.0)
 All-in-one booking platform for hotels, tours, and rentals.  
 Tech: Flutter, Node.js, REST API
 
 ### *Lalukhet Birds Market*  
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-green)](https://github.com/your-repo)  
+[![Word](https://img.shields.io/badge/View_File-Word-blue)](https://docs.google.com/document/d/1kvNSwcI_My8hjOxtkHkBaazPCbqT3E7w/edit?tab=t.0) 
 Local classifieds app with secure payments and real-time chat.  
 Tech: Flutter, Firebase, Geocoding
 
 ### *Wallet 360 – Finance Tracker*  
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-green)](https://github.com/your-repo)  
+[![Word](https://img.shields.io/badge/View_File-Word-blue)](https://docs.google.com/document/d/1htKAhIWkpNKfovb10o8RHwMH7lkGoBjz/edit?tab=t.0) 
 Expense/income visualization with budget alerts.  
 Tech: Flutter, Firebase, Provider
 
